@@ -1,0 +1,162 @@
+[
+  {
+    "id": 1,
+    "name": "Story Book",
+    "title": "Explore the magical world of tales and fables.",
+    "price": 0,
+    "category": "Free",
+    "image": "https://images.unsplash.com/photo-1528207776546-365bb710ee93"
+  },
+  {
+    "id": 2,
+    "name": "Adventure Tales",
+    "title": "Thrilling adventures await!",
+    "price": 120,
+    "category": "Adventure",
+    "image": "https://images.unsplash.com/photo-1523475496153-3fdf04e6ec41"
+  },
+  {
+    "id": 3,
+    "name": "Science Wonders",
+    "title": "The mysteries of science revealed.",
+    "price": 150,
+    "category": "Science",
+    "image": "https://images.unsplash.com/photo-1516972810927-80185027ca84"
+  },
+  {
+    "id": 4,
+    "name": "Mystery Nights",
+    "title": "Solve the unsolved mysteries.",
+    "price": 90,
+    "category": "Mystery",
+    "image": "https://images.unsplash.com/photo-1529070538774-1843cb3265df"
+  },
+  {
+    "id": 5,
+    "name": "Math Tricks",
+    "title": "Amazing math tricks you didn't know.",
+    "price": 70,
+    "category": "Education",
+    "image": "https://images.unsplash.com/photo-1581093588401-6c61f61cd7b3"
+  },
+  {
+    "id": 6,
+    "name": "Fantasy World",
+    "title": "Enter the realm of fantasy.",
+    "price": 110,
+    "category": "Fantasy",
+    "image": "https://images.unsplash.com/photo-1509021436665-8f07dbf5bf1d"
+  },
+  {
+    "id": 7,
+    "name": "Comic Fun",
+    "title": "Laugh out loud with comics.",
+    "price": 50,
+    "category": "Comics",
+    "image": "https://images.unsplash.com/photo-1557804506-669a67965ba0"
+  },
+  {
+    "id": 8,
+    "name": "History of India",
+    "title": "Explore Indian heritage.",
+    "price": 200,
+    "category": "History",
+    "image": "https://images.unsplash.com/photo-1600077093329-5cfd3bfbbea3"
+  },
+  {
+    "id": 9,
+    "name": "Cooking Made Easy",
+    "title": "Easy recipes for everyone.",
+    "price": 90,
+    "category": "Cooking",
+    "image": "https://images.unsplash.com/photo-1601315576607-4494e1e00d49"
+  },
+  {
+    "id": 10,
+    "name": "Travel Diaries",
+    "title": "A traveler's dream guide.",
+    "price": 130,
+    "category": "Travel",
+    "image": "https://images.unsplash.com/photo-1483683804023-6ccdb62f86ef"
+  },
+  {
+    "id": 11,
+    "name": "Poetry Collection",
+    "title": "Beautiful verses for the soul.",
+    "price": 75,
+    "category": "Poetry",
+    "image": "https://images.unsplash.com/photo-1524985069026-dd778a71c7b4"
+  },
+  {
+    "id": 12,
+    "name": "Health & Fitness",
+    "title": "Healthy living tips.",
+    "price": 85,
+    "category": "Health",
+    "image": "https://images.unsplash.com/photo-1605296867304-46d5465a13f1"
+  },
+  {
+    "id": 13,
+    "name": "Kids Coding",
+    "title": "Programming basics for kids.",
+    "price": 0,
+    "category": "Education",
+    "image": "https://images.unsplash.com/photo-1581090700227-1c7288b0d06f"
+  },
+  {
+    "id": 14,
+    "name": "Startup Journey",
+    "title": "How startups build empires.",
+    "price": 180,
+    "category": "Business",
+    "image": "https://images.unsplash.com/photo-1532619675605-5ec3d06e4f64"
+  },
+  {
+    "id": 15,
+    "name": "Language Lover",
+    "title": "Learn Spanish, French, German!",
+    "price": 115,
+    "category": "Language",
+    "image": "https://images.unsplash.com/photo-1518972559570-1ec2f7f27b7b"
+  },
+  {
+    "id": 16,
+    "name": "Gardening Basics",
+    "title": "A guide to home gardening.",
+    "price": 70,
+    "category": "Hobby",
+    "image": "https://images.unsplash.com/photo-1592861956120-e524fc739696"
+  },
+  {
+    "id": 17,
+    "name": "Art & Drawing",
+    "title": "Master the art of drawing.",
+    "price": 140,
+    "category": "Art",
+    "image": "https://images.unsplash.com/photo-1496317556649-f930d733eea6"
+  },
+  {
+    "id": 18,
+    "name": "Photography Basics",
+    "title": "Capture stunning photos.",
+    "price": 150,
+    "category": "Photography",
+    "image": "https://images.unsplash.com/photo-1504203700686-0f0903c22590"
+  },
+  {
+    "id": 19,
+    "name": "Financial Freedom",
+    "title": "Master your personal finance.",
+    "price": 200,
+    "category": "Finance",
+    "image": "https://images.unsplash.com/photo-1581091215367-59ab6a23a43e"
+  },
+  {
+    "id": 20,
+    "name": "Mindfulness Practice",
+    "title": "Meditation and mindfulness guide.",
+    "price": 95,
+    "category": "Self-help",
+    "image": "https://images.unsplash.com/photo-1531834685032-c34bf0d84c77"
+  }
+]

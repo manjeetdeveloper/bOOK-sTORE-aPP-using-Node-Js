@@ -1,0 +1,123 @@
+[
+    {
+      "id": 1,
+      "name": "Story Book",
+      "title": "Explore the magical world of tales and fables.",
+      "price": 0,
+      "category": "Free",
+      "image": "https://ibb.co/N2Sz6bTB"
+    },
+    {
+      "id": 2,
+      "name": "Music Book",
+      "title": "Learn about classical and modern music.",
+      "price": 100,
+      "category": "Song",
+      "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-214934189.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Science Explorer",
+      "title": "Dive into the mysteries of science.",
+      "price": 150,
+      "category": "Education",
+      "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-214934189.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Math Tricks",
+      "title": "Quick tips to solve complex problems.",
+      "price": 80,
+      "category": "Education",
+      "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-214934189.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Comics Vol. 1",
+      "title": "Laughs and adventures await!",
+      "price": 50,
+      "category": "Comics",
+      "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-214934189.jpg"
+    },
+    {
+      "id": 6,
+      "name": "History of India",
+      "title": "From ancient to modern India.",
+      "price": 200,
+      "category": "History",
+      "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-214934189.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Poetry Collection",
+      "title": "A journey through beautiful verses.",
+      "price": 60,
+      "category": "Poetry",
+      "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-214934189.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Motivational Reads",
+      "title": "Inspire yourself daily.",
+      "price": 0,
+      "category": "Free",
+      "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-214934189.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Fantasy Novel",
+      "title": "A magical journey begins.",
+      "price": 120,
+      "category": "Fiction",
+      "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-214934189.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Travel Guide",
+      "title": "Top destinations to explore.",
+      "price": 90,
+      "category": "Travel",
+      "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-214934189.jpg"
+    },
+    {
+      "id": 11,
+      "name": "Cooking Basics",
+      "title": "Tasty recipes for beginners.",
+      "price": 70,
+      "category": "Food",
+      "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-214934189.jpg"
+    },
+    {
+      "id": 12,
+      "name": "Coding for Kids",
+      "title": "Learn programming in a fun way!",
+      "price": 0,
+      "category": "Free",
+      "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-214934189.jpg"
+    },
+    {
+      "id": 13,
+      "name": "Startup Stories",
+      "title": "How great companies started.",
+      "price": 130,
+      "category": "Business",
+      "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-214934189.jpg"
+    },
+    {
+      "id": 14,
+      "name": "Health & Wellness",
+      "title": "Tips for a better lifestyle.",
+      "price": 95,
+      "category": "Health",
+      "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-214934189.jpg"
+    },
+    {
+      "id": 15,
+      "name": "Language Learner",
+      "title": "Basics of Spanish, French & German.",
+      "price": 110,
+      "category": "Language",
+      "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-214934189.jpg"
+    }
+  ]
+  

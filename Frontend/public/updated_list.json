@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "name": "Story Book",
+    "title": "Explore the magical world of tales and fables.",
+    "price": 0,
+    "category": "Free",
+    "image": "https://images.unsplash.com/photo-1528207776546-365bb710ee93"
+  },
+  {
+    "id": 2,
+    "name": "Music Book",
+    "title": "Learn about classical and modern music.",
+    "price": 100,
+    "category": "Song",
+    "image": "https://images.unsplash.com/photo-1544716278-ca5e3f4abd8c"
+  },
+  {
+    "id": 3,
+    "name": "Science Explorer",
+    "title": "Dive into the mysteries of science.",
+    "price": 150,
+    "category": "Education",
+    "image": "https://images.unsplash.com/photo-1512820790803-83ca734da794"
+  },
+  {
+    "id": 4,
+    "name": "Math Tricks",
+    "title": "Quick tips to solve complex problems.",
+    "price": 80,
+    "category": "Education",
+    "image": "https://images.unsplash.com/photo-1576107232686-1c5f5c9aa6f6"
+  },
+  {
+    "id": 5,
+    "name": "Comics Vol. 1",
+    "title": "Laughs and adventures await!",
+    "price": 50,
+    "category": "Comics",
+    "image": "https://images.unsplash.com/photo-1600047500630-15d196f72f3a"
+  },
+  {
+    "id": 6,
+    "name": "History of India",
+    "title": "From ancient to modern India.",
+    "price": 200,
+    "category": "History",
+    "image": "https://images.unsplash.com/photo-1611250226063-3e3d06d8981f"
+  },
+  {
+    "id": 7,
+    "name": "Poetry Collection",
+    "title": "A journey through beautiful verses.",
+    "price": 60,
+    "category": "Poetry",
+    "image": "https://images.unsplash.com/photo-1507842217343-583bb7270b66"
+  },
+  {
+    "id": 8,
+    "name": "Motivational Reads",
+    "title": "Inspire yourself daily.",
+    "price": 0,
+    "category": "Free",
+    "image": "https://images.unsplash.com/photo-1553729784-e91953dec042"
+  },
+  {
+    "id": 9,
+    "name": "Fantasy Novel",
+    "title": "A magical journey begins.",
+    "price": 120,
+    "category": "Fiction",
+    "image": "https://images.unsplash.com/photo-1576105480374-54b1b3d3c0b2"
+  },
+  {
+    "id": 10,
+    "name": "Travel Guide",
+    "title": "Top destinations to explore.",
+    "price": 90,
+    "category": "Travel",
+    "image": "https://images.unsplash.com/photo-1503676260728-1c00da094a0b"
+  },
+  {
+    "id": 11,
+    "name": "Cooking Basics",
+    "title": "Tasty recipes for beginners.",
+    "price": 70,
+    "category": "Food",
+    "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836"
+  },
+  {
+    "id": 12,
+    "name": "Coding for Kids",
+    "title": "Learn programming in a fun way!",
+    "price": 0,
+    "category": "Free",
+    "image": "https://images.unsplash.com/photo-1581090700227-1c7288b0d06f"
+  },
+  {
+    "id": 13,
+    "name": "Startup Stories",
+    "title": "How great companies started.",
+    "price": 130,
+    "category": "Business",
+    "image": "https://images.unsplash.com/photo-1573164574237-4996016a79aa"
+  },
+  {
+    "id": 14,
+    "name": "Health & Wellness",
+    "title": "Tips for a better lifestyle.",
+    "price": 95,
+    "category": "Health",
+    "image": "https://images.unsplash.com/photo-1556139943-4bdca53adf1e"
+  },
+  {
+    "id": 15,
+    "name": "Language Learner",
+    "title": "Basics of Spanish, French & German.",
+    "price": 110,
+    "category": "Language",
+    "image": "https://images.unsplash.com/photo-1503676260728-1c00da094a0b"
+  }
+]
